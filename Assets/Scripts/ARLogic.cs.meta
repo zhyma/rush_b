@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 693cdfa439ef77d4faa4d132a8ed87b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vr15: {instanceID: 0}
+  - charginHandle: {instanceID: 0}
+  - boltCarrier: {instanceID: 0}
+  - boltExtractor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
